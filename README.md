@@ -1,4 +1,4 @@
-## Hi, nice to meet you <img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="30" style="vertical-align: middle;" />
+## <img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="30" style="vertical-align: middle;" />Hi, nice to meet you
 
 I am Danli, formerly at Powder and Deezer, based in Paris. 
 
