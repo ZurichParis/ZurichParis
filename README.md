@@ -1,9 +1,9 @@
-## Hi nice to meet you ![blob_eyerolling](https://tenor.com/view/blob-very-nice-gif-5511088722956100916)
+## Hi nice to meet you ![blob_eyerolling]([https://tenor.com/view/blob-very-nice-gif-5511088722956100916](https://media.tenor.com/THtR_pl1pTQAAAAi/blob-very-nice.gif))
 
 <!--
 **ZurichParis/ZurichParis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
+### I work with 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
