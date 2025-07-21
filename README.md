@@ -1,8 +1,8 @@
-### Hi, nice to meet you ![gif](https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif)
+### Hi, nice to meet you 
 
+I am Danli, living in Paris. 
+<img src="[your-gif-url.gif](https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif)" height="100">
 
-
-I am Danli, living in Paris.
 
 ### I work with 
 
