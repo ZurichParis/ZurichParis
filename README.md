@@ -1,11 +1,13 @@
 ## Hi nice to meet you 
 
-<img align='right' src='https://tenor.com/view/blob-very-nice-gif-5511088722956100916](https://media.tenor.com/THtR_pl1pTQAAAAi/blob-very-nice.gif' width="200"/>
+![blog](https://media.tenor.com/THtR_pl1pTQAAAAi/blob-very-nice.gif)
+I am Danli, living in Paris.
 
-<!--
-**ZurichParis/ZurichParis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 ### I work with 
+
+<p>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+</p>  
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
