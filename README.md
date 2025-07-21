@@ -1,6 +1,6 @@
-### Hi, nice to meet you 
+Hi, nice to meet you ![gif](https://media.tenor.com/46L8A5VT2wMAAAAi/discord-discordgifemoji.gif)
 
-![gif](https://media.tenor.com/46L8A5VT2wMAAAAi/discord-discordgifemoji.gif)
+
 I am Danli, living in Paris.
 
 ### I work with 
