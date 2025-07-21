@@ -2,7 +2,7 @@
 
 I am Danli, living in Paris. 
 
-<img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="100" />
+<img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="50" />
 
 
 ### I work with 
