@@ -1,4 +1,6 @@
-## Hi nice to meet you ![blob_eyerolling]([https://tenor.com/view/blob-very-nice-gif-5511088722956100916](https://media.tenor.com/THtR_pl1pTQAAAAi/blob-very-nice.gif))
+## Hi nice to meet you 
+
+<img align='right' src='https://tenor.com/view/blob-very-nice-gif-5511088722956100916](https://media.tenor.com/THtR_pl1pTQAAAAi/blob-very-nice.gif' width="200">
 
 <!--
 **ZurichParis/ZurichParis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
