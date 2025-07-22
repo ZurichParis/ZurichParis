@@ -1,7 +1,7 @@
 ## <img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="30" style="vertical-align: middle;" />Hi, nice to meet you
 
 I'm Dl, a Data Science Master's graduate based in Paris. Previously worked at Powder and Deezer, and studied Economics & Statistics at Waseda University in Tokyo. 
-<img alt="js" src="[https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=Python&logoColor=whit](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000))e" />
+<img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
 
 ### I work with 
 <p>
