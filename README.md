@@ -1,6 +1,7 @@
 ## <img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="30" style="vertical-align: middle;" />Hi, nice to meet you
 
 I'm Dl, a Data Science Master's graduate based in Paris. Previously worked at Powder and Deezer, and studied Economics & Statistics at Waseda University in Tokyo. 
+My previous experiences including Machine Learning, MLOP, LLM prompting and finetuning, 
 
 ### I write ...
 <p>
@@ -8,6 +9,11 @@ I'm Dl, a Data Science Master's graduate based in Paris. Previously worked at Po
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
 </p>
+[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
+[![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat&logo=fastify&logoColor=white)](#)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)](#)
+[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)
+
 
 ### I worked with ...
 <p>
