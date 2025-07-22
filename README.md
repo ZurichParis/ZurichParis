@@ -1,14 +1,23 @@
 ## <img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="30" style="vertical-align: middle;" />Hi, nice to meet you
 
 I'm Dl, a Data Science Master's graduate based in Paris. Previously worked at Powder and Deezer, and studied Economics & Statistics at Waseda University in Tokyo. 
-<img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
 
-### I work with 
+### I write ...
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+<img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+<img alt="vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)" />
+<img alt="railway" src="https://img.shields.io/badge/Railway-%23000000.svg?logo=railway&logoColor=white)" />
+<img alt="render" src="https://img.shields.io/badge/Render%23000000.svg?logo=render&logoColor=white)" />
+<img alt="Typescript" src="https://img.shields.io/badge/Typescript%23000000.svg?logo=typescript&logoColor=white)" />
+
+### I work with ...
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white&" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
+  <img alt="SQLite" src="ttps://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
 </p>  
 
 - 🔭 I’m currently working on ...
