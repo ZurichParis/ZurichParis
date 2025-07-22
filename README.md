@@ -10,14 +10,6 @@ My previous experiences including Machine Learning, MLOP, LLM prompting and fine
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
 </p>
 
-[![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](#)
-
-[![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify&logoColor=white)](#)
-
-[![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?style=flat-square&logo=fastapi&logoColor=white)](#)
-
-[![Flask](https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=fff)](#)
-
 
 ### I worked with ...
 <p>
@@ -26,7 +18,7 @@ My previous experiences including Machine Learning, MLOP, LLM prompting and fine
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
-  <img alt="FastAPI" scr="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white" />
+  <img alt="FastAPI" scr="hhttps://img.shields.io/badge/FastAPI-009485.svg?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="Express.js" scr="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB" />
   <img alt="Flask" scr="https://img.shields.io/badge/Flask-000?style=flat-square&logo=flask&logoColor=fff" />
   <img alt="Django" scr="https://img.shields.io/badge/Django-%23092E20.svg?style=flat-square&logo=django&logoColor=white" />
