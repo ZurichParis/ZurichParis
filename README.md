@@ -3,12 +3,14 @@
 I'm Dl, a Data Science Master's graduate based in Paris. Previously worked at Powder and Deezer, and studied Economics & Statistics at Waseda University in Tokyo. 
 
 ### I write ...
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-<img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-<img alt="vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)" />
-<img alt="railway" src="https://img.shields.io/badge/Railway-%23000000.svg?logo=railway&logoColor=white)" />
-<img alt="render" src="https://img.shields.io/badge/Render%23000000.svg?logo=render&logoColor=white)" />
-<img alt="Typescript" src="https://img.shields.io/badge/Typescript%23000000.svg?logo=typescript&logoColor=white)" />
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+  <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+  <img alt="vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)" />
+  <img alt="railway" src="https://img.shields.io/badge/Railway-%23000000.svg?logo=railway&logoColor=white)" />
+  <img alt="render" src="https://img.shields.io/badge/Render%23000000.svg?logo=render&logoColor=white)" />
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+</p>
 
 ### I work with ...
 <p>
@@ -17,7 +19,6 @@ I'm Dl, a Data Science Master's graduate based in Paris. Previously worked at Po
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Postgres" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" />
-  <img alt="SQL" src="ttps://img.shields.io/badge/SQL-%2307405e.svg?logo=sql&logoColor=white" />
 </p>  
 
 - 🔭 I’m currently working on ...
