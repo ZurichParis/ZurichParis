@@ -1,9 +1,8 @@
 ## <img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="30" style="vertical-align: middle;" />Hi, nice to meet you
 
-I am Danli, formerly at Powder and Deezer, based in Paris. 
+I'm Dl, a Data Science Master's graduate based in Paris. Previously worked at Powder and Deezer, and studied Economics & Statistics at Waseda University in Tokyo. 
 
 ### I work with 
-
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
