@@ -4,7 +4,7 @@
     It's dl here, nice to meet you.
   </h2>
   
-  <sup><img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" align="right"/></sup>
+  <sub><img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" align="right"/></sub>
   
   ### Here you find ...
   
