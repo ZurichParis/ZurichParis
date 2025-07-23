@@ -1,21 +1,24 @@
 ## <img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="30" style="vertical-align: middle;" />It's dl here, nice to meet you.
 
-<div align="left" style="display: flex; justify-content: space-between; align-items: flex-start;">
-<div style="flex: 1/2;">
+<div align="left" style="display: flex; justify-content: space-between;">
+<div style="flex: 1;">
 
 
 ### Here you find ... 
 
-Webdev template for blogger and youtuber (React & Express): *[How to learn Japanese?](https://github.com/ZurichParis/blog-template-express-react)*
+Webdev template for blogger and youtuber (React & Express): 
+- *[How to learn Japanese?](https://github.com/ZurichParis/blog-template-express-react)*
 
-Research: *[LLM prompting for emotional companion](https://github.com/ZurichParis/penguinchat)*
+Research: 
+- *[LLM prompting for emotional companion](https://github.com/ZurichParis/penguinchat)*
 
-Web app for machine learning & MLOP & data visualization: *[bitcoin price predictor](https://github.com/ZurichParis/cryplot-0714)*
+Web app for machine learning & MLOP & data visualization: 
+- *[bitcoin price predictor](https://github.com/ZurichParis/cryplot-0714)*
 </div>
 
-<div style="flex: 1/2; margin-left: 50px;">
+<div style="flex: 1; margin-left: 50px;">
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
+<img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50"/>
 
 </div>
 </div>
