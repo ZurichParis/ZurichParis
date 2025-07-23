@@ -17,10 +17,10 @@ Web app for machine learning & MLOP & data visualization:
   </div>
   
   <div style="flex: 1;">
-    <img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+    <p> Hello </p>  
   </div>
 </div>
-
+<img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 ### I write ...
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
