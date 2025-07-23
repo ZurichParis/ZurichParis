@@ -2,10 +2,12 @@
 
 ### Here you find ... 
 
-Personal website template (React & Express) | 
-LLM study in emotional companion | 
-Web app for statistical analysis and visualization | 
-Machine learning & MLOP | 
+Webdev template for blogger and youtuber (React & Express): *[How to learn Japanese?](https://github.com/ZurichParis/blog-template-express-react)*
+
+Research: *[LLM prompting for emotional companion](https://github.com/ZurichParis/penguinchat)*
+
+Web app for machine learning & MLOP & data visualization: *[bitcoin price predictor](https://github.com/ZurichParis/cryplot-0714)*
+
 
 ### I write ...
 <p>
@@ -29,13 +31,11 @@ Machine learning & MLOP |
   <img alt="tailwind.css" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="vercel" src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" />
   <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
 </p>  
 
 ### Some facts?
 
 - 🐼 我说中文，日本語もオッケーっす
 - ⬆️ Yes I speak Chinese and Japanese
-- 🎮 Made a complete visual novel web game. It was fun!
-- 🗼 Based in Paris, lived in Tokyo, from Sichuan
+- 🎮 Once made a visual novel web game. It was fun!
+- 🗼 based in Paris, lived in Tokyo, from Sichuan
