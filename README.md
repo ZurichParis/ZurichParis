@@ -1,7 +1,7 @@
 ## <img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="30" style="vertical-align: middle;" />It's dl here, nice to meet you.
 
 <div align="left" style="display: flex; justify-content: space-between; align-items: flex-start;">
-<div style="flex: 1;">
+<div style="flex: 1/2;">
 
 
 ### Here you find ... 
@@ -13,7 +13,7 @@ Research: *[LLM prompting for emotional companion](https://github.com/ZurichPari
 Web app for machine learning & MLOP & data visualization: *[bitcoin price predictor](https://github.com/ZurichParis/cryplot-0714)*
 </div>
 
-<div style="flex: 0 0 auto; margin-left: 50px;">
+<div style="flex: 1/2; margin-left: 50px;">
 
 ![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
