@@ -18,7 +18,7 @@ Web app for machine learning & MLOP & data visualization:
 
 <div style="flex: 1; margin-right: 50px;">
 
-<img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
+<img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
 
 </div>
 </div>
