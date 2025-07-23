@@ -16,9 +16,9 @@ Web app for machine learning & MLOP & data visualization:
 - *[bitcoin price predictor](https://github.com/ZurichParis/cryplot-0714)*
 </div>
 
-<div style="flex: 1; margin-left: 50px;">
+<div style="flex: 1; margin-right: 50px;">
 
-<img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="50"/>
+<img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"/>
 
 </div>
 </div>
