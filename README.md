@@ -1,12 +1,10 @@
 <div>
   <h2>
-    <img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="30" style="vertical-align: middle;" />
+    <img src="https://media.tenor.com/ch3Q8AWTLAsAAAAi/blob-bounce.gif" height="30" />
     It's dl here, nice to meet you.
   </h2>
   
-  <table>
-  <tr>
-  <td width="75%">
+  <sup><img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" align="right"/></sup>
   
   ### Here you find ...
   
@@ -19,14 +17,7 @@
   **Web app for machine learning & MLOP & data visualization:**
   - *[bitcoin price predictor](https://github.com/ZurichParis/cryplot-0714)*
   
-  </td>
-  <td width="25%">
-  
-  <img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
-  
-  </td>
-  </tr>
-  </table>
+  <br clear="all"/>
   
   <h3>I write ...</h3>
   <p>
