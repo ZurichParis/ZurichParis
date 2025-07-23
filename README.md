@@ -4,7 +4,7 @@
     It's dl here, nice to meet you.
   </h2>
   
-  <sub><img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" align="right"/></sub>
+  <sub><img alt="gif" src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" width="300" align="right"/></sub>
   
   ### Here you find ...
   
@@ -16,8 +16,6 @@
   
   **Web app for machine learning & MLOP & data visualization:**
   - *[bitcoin price predictor](https://github.com/ZurichParis/cryplot-0714)*
-  
-  <br clear="all"/>
   
   <h3>I write ...</h3>
   <p>
