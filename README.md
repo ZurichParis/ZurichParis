@@ -4,26 +4,29 @@
     It's dl here, nice to meet you.
   </h2>
   
-  <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-    <div style="flex: 3; padding-right: 20px;">
-      <h3>Here you find ...</h3>
-      <p><strong>Webdev template for blogger and youtuber (React & Express):</strong></p>   
-      <ul>
-        <li><em><a href="https://github.com/ZurichParis/blog-template-express-react">How to learn Japanese?</a></em></li>
-      </ul>
-      <p><strong>Research:</strong></p>
-      <ul>
-        <li><em><a href="https://github.com/ZurichParis/penguinchat">LLM prompting for emotional companion</a></em></li>
-      </ul>
-      <p><strong>Web app for machine learning & MLOP & data visualization:</strong></p>
-      <ul>
-        <li><em><a href="https://github.com/ZurichParis/cryplot-0714">bitcoin price predictor</a></em></li>
-      </ul>
-    </div>
-    <div style="flex: 1;">
-      <img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
-    </div>
-  </div>
+  <table>
+  <tr>
+  <td width="75%">
+  
+  ### Here you find ...
+  
+  **Webdev template for blogger and youtuber (React & Express):**
+  - *[How to learn Japanese?](https://github.com/ZurichParis/blog-template-express-react)*
+  
+  **Research:**
+  - *[LLM prompting for emotional companion](https://github.com/ZurichParis/penguinchat)*
+  
+  **Web app for machine learning & MLOP & data visualization:**
+  - *[bitcoin price predictor](https://github.com/ZurichParis/cryplot-0714)*
+  
+  </td>
+  <td width="25%">
+  
+  <img alt="gif" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+  
+  </td>
+  </tr>
+  </table>
   
   <h3>I write ...</h3>
   <p>
