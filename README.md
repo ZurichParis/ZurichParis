@@ -8,7 +8,7 @@
   
   ### Here you find ...
   
-  **Webdev template for blogger and youtuber (React & Express):**
+  **Web app template for blogger and youtuber (React & Express):**
   - *[How to learn Japanese?](https://github.com/ZurichParis/blog-template-express-react)*
   
   **Research:**
@@ -16,6 +16,7 @@
   
   **Web app for machine learning & MLOP & data visualization:**
   - *[bitcoin price predictor](https://github.com/ZurichParis/cryplot-0714)*
+  - *[bond recommender](https://github.com/ZurichParis/Bond-Recommander)*
   
   <h3>I write ...</h3>
   <p>
